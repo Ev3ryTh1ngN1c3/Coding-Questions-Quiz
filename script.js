@@ -96,7 +96,11 @@ function quizContainer() {
         div.appendChild(question_DIV);
 
         div.innerHTML += 
-        <button class="option-div" onclick="checker(this)"> </button>
-        
+        <button class="option-div" onclick="checker(this)"> 
+        $(i.option[0]</button>;
+        <button class="option-div" onclick="checker(this)"> 
+        $(i.option[1]</button>;
+        <button class="option-div" onclick="checker(this)"> 
+        $(i.option[2]</button>
     }
 }

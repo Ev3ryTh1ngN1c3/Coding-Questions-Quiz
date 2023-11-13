@@ -9,6 +9,6 @@ Front End Technologies used are HTML, CSS, JavaScript & JQuery.
 
 What makes your project stand out? If your project has a lot of features, challenges you faced and features you hope to implement in the future.
 
-References used include : The Coding Artist on YouTube tutorials  
+References used include : Dear Programmer tutorial on YouTube  
 Collaborated with AskBCS / UCF Coding Boot Camp : Charles Siwele 
 MIT Licensed
